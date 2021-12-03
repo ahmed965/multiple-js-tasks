@@ -39,5 +39,5 @@ function isLogin(login, password) {
 the user tries 3 times to enter a login and password, if the data are true he gets a success message contain his role
 otherwise the program asks again for data. if he makes 3 falses tries the program ends.
 
-"Password in real world website shouldn't  be saved this way and should be hashed"
+"Password in real world website shouldn't be saved this way and should be hashed"
 */
