@@ -11,6 +11,5 @@ Various javaScript tasks
 8. whrite the word
 9. calcul
 10. perimeter or area of circle
-11. divided by 3
 
 These are my solutions for some tasks provided by Matthieu GASTON
