@@ -1,16 +1,16 @@
 # multiples-js-tasks
 
 Various javaScript tasks
-01 number of steps
-02 currency to convert
-03 login user
-04 draw the square
-05 find the number
-06 Total price product
-07 calculate the average
-08 whrite the word
-09 calcul
-10 perimeter or area of circle
-11 divided by 3
+1. number of steps
+2. currency to convert
+3. login user
+4. draw the square
+5. find the number
+6. Total price product
+7. calculate the average
+8. whrite the word
+9. calcul
+10. perimeter or area of circle
+11. divided by 3
 
 These are my solutions for some tasks provided by Matthieu GASTON
