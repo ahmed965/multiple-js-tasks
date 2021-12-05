@@ -8,7 +8,7 @@ Various javaScript tasks
 5. find the number
 6. Total price product
 7. calculate the average
-8. whrite the word
+8. write the word
 9. calcul
 10. perimeter or area of circle
 
