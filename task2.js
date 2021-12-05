@@ -45,5 +45,5 @@ console.log(sumToConvert + " Euro = " + convertedVal.toFixed(2) + " " + currency
 
 /*
 the user enters an amout in euro and chooses the currency to convert to Dollar, Rouble, Youans or Livre. 
-if he choose another currency, the program ask again to repeat the operation
+if he chooses another currency, the program asks again to repeat the operation.
 */
